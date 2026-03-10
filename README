@@ -1,14 +1,14 @@
- ​🍳 Ingeniería de Menú y Control de Costos: Gran Cocina Central
-​📈 Comprensión del Negocio
+ ​- Ingeniería de Menú y Control de Costos: Gran Cocina Central
+​- Comprensión del Negocio
 ​En una cocina de alto volumen, el control de los costos es vital para la rentabilidad. Este proyecto automatiza el cálculo de escandallos para reducir errores manuales y optimizar el uso de ingredientes.
-​📊 Comprensión de los Datos
+​- Comprensión de los Datos
 ​Los datos procesados incluyen:
 ​Listado de proveedores y precios actualizados.
 ​Recetario base con cantidades estandarizadas.
 ​Registro de mermas e inventario.
-​🛠️ Tecnologías
+​ Tecnologías
 ​Microsoft Excel: Herramienta principal de análisis.
 ​Funciones Avanzadas: BUSCARX para vinculación de precios dinámicos.
 ​Validación de Datos: Menús interactivos para asegurar la calidad de la entrada.
-​👩‍🍳 Créditos
+​- Créditos
 ​Nancy - Chef Profesional y Analista de Datos en formación.
